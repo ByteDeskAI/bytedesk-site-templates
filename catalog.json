@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "templates": [
+    {
+      "slug": "landing-page",
+      "name": "Landing Page",
+      "description": "Framework-neutral HTML source for a focused marketing landing page.",
+      "category": "Marketing",
+      "sourceRepoUrl": "https://github.com/ByteDeskAI/bytedesk-template-landing-page",
+      "sourceBranch": "main",
+      "catalogVersion": "2026.05.14",
+      "packageSchemaVersion": "1.0",
+      "previewImageUrl": "https://raw.githubusercontent.com/ByteDeskAI/bytedesk-template-landing-page/main/assets/preview.svg",
+      "interviewPrompt": "Ask about the offer, target audience, proof points, lead capture, and calls to action.",
+      "tags": ["html", "landing-page", "marketing"],
+      "supportedStacks": ["nextJs"],
+      "sortOrder": 10,
+      "isActive": true
+    },
+    {
+      "slug": "saas-app",
+      "name": "SaaS/App",
+      "description": "Framework-neutral HTML source for an app or SaaS product site.",
+      "category": "SaaS",
+      "sourceRepoUrl": "https://github.com/ByteDeskAI/bytedesk-template-saas-app",
+      "sourceBranch": "main",
+      "catalogVersion": "2026.05.14",
+      "packageSchemaVersion": "1.0",
+      "previewImageUrl": "https://raw.githubusercontent.com/ByteDeskAI/bytedesk-template-saas-app/main/assets/preview.svg",
+      "interviewPrompt": "Ask about product positioning, plans, dashboard concepts, integrations, and signup goals.",
+      "tags": ["html", "saas", "app"],
+      "supportedStacks": ["nextJs"],
+      "sortOrder": 20,
+      "isActive": true
+    },
+    {
+      "slug": "local-business",
+      "name": "Local Business",
+      "description": "Framework-neutral HTML source for a local service business website.",
+      "category": "Local Business",
+      "sourceRepoUrl": "https://github.com/ByteDeskAI/bytedesk-template-local-business",
+      "sourceBranch": "main",
+      "catalogVersion": "2026.05.14",
+      "packageSchemaVersion": "1.0",
+      "previewImageUrl": "https://raw.githubusercontent.com/ByteDeskAI/bytedesk-template-local-business/main/assets/preview.svg",
+      "interviewPrompt": "Ask about services, service area, hours, trust signals, booking flow, and local SEO needs.",
+      "tags": ["html", "local-business", "services"],
+      "supportedStacks": ["nextJs"],
+      "sortOrder": 30,
+      "isActive": true
+    }
+  ]
+}
